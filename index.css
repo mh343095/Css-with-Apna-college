@@ -1,0 +1,37 @@
+div {
+  height: 100px;
+  width: 100px;
+  border: 2px solid black;
+  display: inline-block;
+  background-color: aliceblue;
+
+  display: flex;
+}
+#container {
+  width: 800px;
+  height: 800px;
+  align-items: center;
+  align-content: flex-start;
+  justify-content: center;
+}
+#box1 {
+  background-color: antiquewhite;
+  width: 150px;
+  height: 300px;
+}
+#box2 {
+  background-color: aqua;
+  width: 100px;
+  height: 100px;
+}
+#box3 {
+  background-color: azure;
+  width: 150px;
+  height: 400px;
+}
+#box4 {
+  background-color: blue;
+}
+#box5 {
+  background-color: green;
+}
